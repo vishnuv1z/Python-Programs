@@ -1,0 +1,8 @@
+a = int(input("Ether the first value: "))
+b = int(input("Ether the second value: "))
+print("The value of a is : ",a)
+print("The value of b is : ",b)
+print(a, " + ",b," = ",a+b)
+print(a, " - ",b," = ",a-b) 
+print(a, " * ",b," = ",a*b)
+print(a, " / ",b," = ",a/b)
